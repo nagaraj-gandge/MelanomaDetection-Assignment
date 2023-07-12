@@ -1,5 +1,5 @@
 # MelanomaDetection-Assignment
-IIIT-B UpGrad course assignment for life threatening cancer disease detection using CNN and Tensor flow and Keres  
+IIIT-B UpGrad course assignment for life threatening cancer disease detection using CNN, Tensor flow and Keres  
 
 ## Table of Contents
 * [General Info](#Upgrad MLAI Assignment)
